@@ -1,0 +1,14 @@
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe.config
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.exe
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.pdb
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\bin\Debug\NaughtsAndCrosses.xml
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.GameWindow.resources
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.Resources.resources
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.vbproj.GenerateResource.Cache
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.exe
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.xml
+c:\users\uberk\documents\visual studio 2015\Projects\NaughtsAndCrosses\NaughtsAndCrosses\obj\Debug\NaughtsAndCrosses.pdb
+c:\users\uberk\Desktop\build\Naughts And Crosses\NaughtsAndCrosses.exe.config
+c:\users\uberk\Desktop\build\Naughts And Crosses\NaughtsAndCrosses.exe
+c:\users\uberk\Desktop\build\Naughts And Crosses\NaughtsAndCrosses.pdb
+c:\users\uberk\Desktop\build\Naughts And Crosses\NaughtsAndCrosses.xml
